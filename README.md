@@ -7,7 +7,7 @@ Selecione o idioma / Select Language:
 ---
 
 <a id="portugues"></a>
-## 🐺 Portfólio Pessoal: Desenvolvedor Front End & UX/UI Designer
+## Portfólio Pessoal: Desenvolvedor Front End & UX/UI Designer
 
 ### Sobre o Projeto
 Este repositório contém o código-fonte de um **Portfólio Pessoal**, uma landing page responsiva desenvolvida para apresentar habilidades e conhecimentos em **Desenvolvimento Front-end** e **UX/UI Design**.
@@ -41,7 +41,7 @@ GitHub: https://github.com/karolinysouza
 ---
 <a id="english"></a> 🇬🇧 English Version (EN)
 
-## 🐺 Personal Portfolio: Front End Developer & UX/UI Designer
+## Personal Portfolio: Front End Developer & UX/UI Designer
 
 ### About the Project
 This repository contains the source code for a Personal Portfolio, a responsive landing page developed to showcase skills and knowledge in Front-end Development and UX/UI Design.
